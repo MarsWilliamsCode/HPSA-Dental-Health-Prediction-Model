@@ -1,1 +1,2 @@
 # HPSA-Dental-Health-Prediction-Model
+This is a project for INFO-B573 (Programming for Informatics). This code uses data from the Health Resources and Services Administration’s Health Professional Shortage Area (HPSA) for Dental Health dataset along with the United States Census Bureau’s 5 Year American Community Survey from 2023 to build a model that attempts to predict whether a county in the United States is designated a HPSA for dental care based on population demographics. 
